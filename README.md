@@ -125,5 +125,36 @@ Due to current platform limitations, the detection module is presented as a sepa
 ---
 
 ## 🌟 Project Goal
+Screenshots
+🌐 Live Application (MVP)
+👉 https://aion-safety-flow.base44.app
 
+🎥 Demo Video
+https://drive.google.com/file/d/1aoZLuhHLYWPHhNj5n_KMKeauddTNKzl3/view?usp=drivesdk
+
+👥 Team Members
+Aisha Erum – AI & Backend
+Zoya Akbar– Frontend/UI
+Mahira Firdous – Integration
+🚀 Future Scope
+YOLO-based high accuracy detection
+Mobile application
+Real-time user tracking
+IoT integration
+Crowd detection system
+🏆 Impact
+This system can be used in:
+
+Colleges
+Hospitals
+Hotels
+Offices
+Public spaces
+👉 Helps save lives by guiding people safely during emergencies
+
+📌 Note
+This project is built using the Base44 AI platform, and focuses on system design, AI integration, and real-time functionality rather than traditional coding approaches.
+
+📜 License
+This project is created for educational and hackathon purposes.
 AION Evacuate aims to go beyond simply **detecting a fire** by combining detection, location awareness, route planning, and AI assistance into a single emergency-response system.
